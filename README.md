@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://miro.medium.com/max/1200/1*3QyS2LA4MzCJc5Ys7ebFuA.png" width="100%" >
+        <img src="https://miro.medium.com/max/1200/1*3QyS2LA4MzCJc5Ys7ebFuA.png" width="80%" >
 </p>
 
 <h1 align="center"> Project Summary of RESTAURANT MANAGEMENT SYSTEM</h1>
